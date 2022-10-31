@@ -1,5 +1,3 @@
-<?php
-
 function commitsnippet_admin_bar_button($wp_admin_bar)
 {
     $args = [
