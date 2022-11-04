@@ -58,7 +58,7 @@ function exec_synjson(){
     //echo $snippet_name["0"]->val; die();
 
     //$useragent = 'Mozilla/5.0 (Windows NT 6.2; WOW64; rv:17.0) Gecko/20100101 Firefox/17.0';
-
+    // TEST
     // First get the File to get the sha
     //echo "HELLO"; die();
     ini_set('memory_limit', '2048M');
